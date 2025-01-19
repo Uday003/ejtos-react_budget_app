@@ -66,10 +66,10 @@
         <mxCell id="jfC_QrutXN_wdFKWf8Z5-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfC_QrutXN_wdFKWf8Z5-15" target="jfC_QrutXN_wdFKWf8Z5-24" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="jfC_QrutXN_wdFKWf8Z5-15" value="Create a energy transfer request for one of his inventories as V2V" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="jfC_QrutXN_wdFKWf8Z5-15" value="Create a energy transfer request for one of his inventories as V-V" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="90" y="410" width="200" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="jfC_QrutXN_wdFKWf8Z5-16" value="Create a energy transfer request for one of his inventories as V2G or G2V" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="jfC_QrutXN_wdFKWf8Z5-16" value="Create a energy transfer request for one of his inventories as V-G or G-V" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="530" y="410" width="200" height="85" as="geometry" />
         </mxCell>
         <mxCell id="jfC_QrutXN_wdFKWf8Z5-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfC_QrutXN_wdFKWf8Z5-17" target="jfC_QrutXN_wdFKWf8Z5-13" edge="1">
@@ -89,7 +89,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="jfC_QrutXN_wdFKWf8Z5-22" value="Accept a peer request of V2V energy transfer if available" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+        <mxCell id="jfC_QrutXN_wdFKWf8Z5-22" value="Accept a peer request of V-V energy transfer if available" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="302" y="410" width="210" height="90" as="geometry" />
         </mxCell>
         <mxCell id="jfC_QrutXN_wdFKWf8Z5-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="jfC_QrutXN_wdFKWf8Z5-24" target="jfC_QrutXN_wdFKWf8Z5-26" edge="1">
@@ -122,7 +122,7 @@
           <mxGeometry x="445" y="550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="jfC_QrutXN_wdFKWf8Z5-41" value="If passed" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="434" y="605" width="70" height="30" as="geometry" />
+          <mxGeometry x="434" y="610" width="70" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
