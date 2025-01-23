@@ -1,0 +1,114 @@
+curl 'http://localhost:3001/static/media/CarIllu.2ad7c9895f4569f5de58.png' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'If-None-Match: W/"b88eb-Q1ZDvkg53xrjubsXHx6Hv+NqlPA"' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'http://localhost:3001/static/media/EVIcon.3d373c7558f0f6db4f4b.png' \
+  -H 'Accept: image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'If-None-Match: W/"77166-MmBigHrFLXMom3pX/14CSATXTQU"' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: image' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'http://localhost:3001/main.75489d176a2a3b3607ad.hot-update.json' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'http://localhost:3001/main.75489d176a2a3b3607ad.hot-update.js' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'http://localhost:3001/main.c267f5b7dcb813bd6957.hot-update.json' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'http://localhost:3001/main.c267f5b7dcb813bd6957.hot-update.js' \
+  -H 'Accept: */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Connection: keep-alive' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: script' \
+  -H 'Sec-Fetch-Mode: no-cors' \
+  -H 'Sec-Fetch-Site: same-origin' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' ;
+curl 'http://localhost:8000/api/transactions/update?transactionId=6792a1765b0bae0bdb3be536&tradeId=67929edbd44c54f3081fa850' \
+  -X 'PUT' \
+  -H 'Accept: application/json, text/plain, */*' \
+  -H 'Accept-Language: en-GB,en-US;q=0.9,en;q=0.8' \
+  -H 'Authorization: Bearer bharaths-token-123' \
+  -H 'Connection: keep-alive' \
+  -H 'Content-Type: application/json; charset=UTF-8' \
+  -H 'Cookie: token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiJmaW9yaV90ZXN0MSIsImlhdCI6MTczNzYzNzgxNSwiZXhwIjoxNzM3NjQxNDE1fQ.egwT_br6_lZXJdZmu1vDGvP0Tjn3-PbMRH0K05Eg7TA; _ga=GA1.1.22337867.1737656530; _ga_13ZLZLKJPH=GS1.1.1737656529.1.1.1737657564.0.0.0; auth_token=bharaths-token-123' \
+  -H 'Referer: http://localhost:3001/' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Site: same-site' \
+  -H 'User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36' \
+  -H 'sec-ch-ua: "Google Chrome";v="131", "Chromium";v="131", "Not_A Brand";v="24"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'x-bypass-middleware: true' \
+  --data-raw '{"transactionStatus":"Completed","transferredEnergy":1.2,"chargePerUnit":2}' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X '' ;
+curl 'ws://localhost:8084/mqtt' -X ''
