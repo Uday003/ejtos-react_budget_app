@@ -16,6 +16,15 @@
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-4" parent="K0P2Q-J_dBqa45E4pB5U-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D9900;strokeColor=#4D9900;fontColor=#ffffff;fontStyle=1" value="Submit" vertex="1">
           <mxGeometry height="30" width="180" x="20" y="140" as="geometry" />
         </mxCell>
+        <mxCell id="iyEq-7l0hygbHNfqhM0v-16" parent="K0P2Q-J_dBqa45E4pB5U-1" style="rounded=1;whiteSpace=wrap;html=1;align=center;" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Article 1&lt;/font&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Article 2&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Article 3&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;Article 4&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font size=&quot;3&quot;&gt;None&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="160" width="120" x="50" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="iyEq-7l0hygbHNfqhM0v-17" parent="K0P2Q-J_dBqa45E4pB5U-1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;List&lt;/font&gt;" vertex="1">
+          <mxGeometry height="30" width="60" x="80" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="iyEq-7l0hygbHNfqhM0v-18" parent="K0P2Q-J_dBqa45E4pB5U-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D9900;strokeColor=#4D9900;fontColor=#ffffff;fontStyle=1" value="Select &amp;amp; Submit" vertex="1">
+          <mxGeometry height="40" width="180" x="20" y="450" as="geometry" />
+        </mxCell>
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=center;" value="Node JS&lt;br&gt;Express API" vertex="1">
           <mxGeometry height="160" width="120" x="320" y="60" as="geometry" />
         </mxCell>
@@ -236,6 +245,9 @@
         </mxCell>
         <mxCell id="iyEq-7l0hygbHNfqhM0v-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
           <mxGeometry height="30" width="60" x="540" y="390" as="geometry" />
+        </mxCell>
+        <mxCell id="iyEq-7l0hygbHNfqhM0v-15" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="" vertex="1">
+          <mxGeometry height="60" width="120" x="510" y="380" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
