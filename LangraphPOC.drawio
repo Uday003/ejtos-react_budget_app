@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36" version="29.3.6">
   <diagram name="Architecture Flow" id="A1I8rPP27biBWx7xqm1b">
-    <mxGraphModel dx="2057" dy="1323" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1543" dy="993" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,16 +8,16 @@
           <mxGeometry height="780" width="220" x="40" y="40" as="geometry" />
         </mxCell>
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-2" parent="K0P2Q-J_dBqa45E4pB5U-1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" value="User Natural Language Input&#xa;(Article &amp; Quantity)" vertex="1">
-          <mxGeometry height="30" width="200" x="10" y="40" as="geometry" />
+          <mxGeometry height="30" width="200" x="10" y="60" as="geometry" />
         </mxCell>
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-3" parent="K0P2Q-J_dBqa45E4pB5U-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffffff;strokeColor=#cccccc;" value="" vertex="1">
-          <mxGeometry height="30" width="180" x="20" y="80" as="geometry" />
+          <mxGeometry height="30" width="180" x="20" y="100" as="geometry" />
         </mxCell>
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-4" parent="K0P2Q-J_dBqa45E4pB5U-1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#4D9900;strokeColor=#4D9900;fontColor=#ffffff;fontStyle=1" value="Submit" vertex="1">
-          <mxGeometry height="30" width="180" x="20" y="120" as="geometry" />
+          <mxGeometry height="30" width="180" x="20" y="140" as="geometry" />
         </mxCell>
-        <mxCell id="K0P2Q-J_dBqa45E4pB5U-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="Node JS&#xa;Express API" vertex="1">
-          <mxGeometry height="60" width="120" x="320" y="110" as="geometry" />
+        <mxCell id="K0P2Q-J_dBqa45E4pB5U-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1;align=center;" value="Node JS&lt;br&gt;Express API" vertex="1">
+          <mxGeometry height="160" width="120" x="320" y="60" as="geometry" />
         </mxCell>
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-6" parent="1" style="swimlane;html=1;startSize=40;horizontal=1;fillColor=#d0e0e3;strokeColor=#99b3b9;rounded=1;arcSize=10;" value="LangGraph Model&#xa;(AI Agent Workflow)" vertex="1">
           <mxGeometry height="180" width="220" x="480" y="50" as="geometry" />
@@ -77,8 +77,10 @@
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-17" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" value="Store in Redis DB" vertex="1">
           <mxGeometry height="40" width="140" x="570" y="780" as="geometry" />
         </mxCell>
-        <mxCell id="K0P2Q-J_dBqa45E4pB5U-18" edge="1" parent="1" source="K0P2Q-J_dBqa45E4pB5U-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K0P2Q-J_dBqa45E4pB5U-5" value="Request">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="K0P2Q-J_dBqa45E4pB5U-18" edge="1" parent="1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K0P2Q-J_dBqa45E4pB5U-5" value="Request">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="260" y="140" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="K0P2Q-J_dBqa45E4pB5U-19" edge="1" parent="1" source="K0P2Q-J_dBqa45E4pB5U-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="K0P2Q-J_dBqa45E4pB5U-6" value="">
           <mxGeometry relative="1" as="geometry" />
@@ -228,6 +230,12 @@
         </mxCell>
         <mxCell id="iyEq-7l0hygbHNfqhM0v-12" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="If no matches found" vertex="1">
           <mxGeometry height="30" width="110" x="890" y="660" as="geometry" />
+        </mxCell>
+        <mxCell id="iyEq-7l0hygbHNfqhM0v-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="Request Handler" vertex="1">
+          <mxGeometry height="50" width="100" x="330" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="iyEq-7l0hygbHNfqhM0v-14" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="Text" vertex="1">
+          <mxGeometry height="30" width="60" x="540" y="390" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
